@@ -1,3 +1,0 @@
-bioconductor-deseq2
-meme
-bedtools
